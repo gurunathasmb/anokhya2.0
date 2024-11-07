@@ -2,7 +2,7 @@ import "./Landing_Page.css";
 //import Alert_mssg from '../../Components/Alert_mssg/Alert_mssg'
 
 import logo from "../../Assets/LPMV/Logo.png";
-import banner from "../../Assets/LPMV/Banner.png";
+import banner from "../../Assets/LPMV/2.gif";
 
 const AnimatedBackground = () => {
   return (
